@@ -33,7 +33,7 @@
     "node-webkit"
   ],
   "dependencies": {
-    "node-webkit-builder": "git@github.com:juvty/node-webkit-builder.git"
+    "node-webkit-builder": "https://github.com/juvty/node-webkit-builder.git"
   },
   "devDependencies": {
     "grunt": "^0.4.4"

@@ -36,7 +36,7 @@
     "application"
   ],
   "dependencies": {
-    "nw-builder": "https://github.com/juvty/node-webkit-builder.git"
+    "nw-builder": "https://github.com/juvty/node-webkit-builder.git#master2"
   },
   "devDependencies": {
     "grunt": "^0.4.4"
